@@ -1,0 +1,9 @@
+C:\Users\juancafernandez\Desktop\Dalcs\obj\Debug\Dalcs.csproj.AssemblyReference.cache
+C:\Users\juancafernandez\Desktop\Dalcs\obj\Debug\Dalcs.csproj.CoreCompileInputs.cache
+C:\Users\juancafernandez\Desktop\Dalcs\bin\Debug\Dalcs.dll
+C:\Users\juancafernandez\Desktop\Dalcs\bin\Debug\Dalcs.pdb
+C:\Users\juancafernandez\Desktop\Dalcs\bin\Debug\BussinesEntities.dll
+C:\Users\juancafernandez\Desktop\Dalcs\bin\Debug\BussinesEntities.pdb
+C:\Users\juancafernandez\Desktop\Dalcs\obj\Debug\Dalcs.csproj.CopyComplete
+C:\Users\juancafernandez\Desktop\Dalcs\obj\Debug\Dalcs.dll
+C:\Users\juancafernandez\Desktop\Dalcs\obj\Debug\Dalcs.pdb

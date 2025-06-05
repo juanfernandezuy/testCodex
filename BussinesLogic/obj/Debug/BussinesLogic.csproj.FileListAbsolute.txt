@@ -1,0 +1,11 @@
+C:\Users\juancafernandez\Desktop\BussinesLogic\obj\Debug\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\juancafernandez\Desktop\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\juancafernandez\Desktop\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\juancafernandez\Desktop\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\juancafernandez\Desktop\BussinesLogic\bin\Debug\BussinesEntities.dll
+C:\Users\juancafernandez\Desktop\BussinesLogic\bin\Debug\BussinesEntities.pdb
+C:\Users\juancafernandez\Desktop\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\juancafernandez\Desktop\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\juancafernandez\Desktop\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\juancafernandez\Desktop\BussinesLogic\bin\Debug\Mappers.dll
+C:\Users\juancafernandez\Desktop\BussinesLogic\bin\Debug\Mappers.pdb

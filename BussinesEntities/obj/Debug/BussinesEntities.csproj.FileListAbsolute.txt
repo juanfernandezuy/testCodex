@@ -1,0 +1,6 @@
+C:\Users\juancafernandez\Desktop\BussinesEntities\bin\Debug\BussinesEntities.dll
+C:\Users\juancafernandez\Desktop\BussinesEntities\bin\Debug\BussinesEntities.pdb
+C:\Users\juancafernandez\Desktop\BussinesEntities\obj\Debug\BussinesEntities.csproj.AssemblyReference.cache
+C:\Users\juancafernandez\Desktop\BussinesEntities\obj\Debug\BussinesEntities.csproj.CoreCompileInputs.cache
+C:\Users\juancafernandez\Desktop\BussinesEntities\obj\Debug\BussinesEntities.dll
+C:\Users\juancafernandez\Desktop\BussinesEntities\obj\Debug\BussinesEntities.pdb
