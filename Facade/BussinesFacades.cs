@@ -12,5 +12,10 @@ namespace Facade
         {
             return new BussinesLogic.AdmLogin().Login(identificador, password);
         }
+
+        public void CrearUsuario(Usuario usuario)
+        {
+            new BussinesLogic.AdmUsuarios().CrearUsuario(usuario);
+        }
     }
 }

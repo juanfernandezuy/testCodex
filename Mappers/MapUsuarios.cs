@@ -10,8 +10,12 @@ namespace Mappers
     {
         public List<Usuario> GetUsuarios(string identificador, string password)
         {
-            // TODO Using dalcs project get users
-            return null;
+            return new Dalcs.DalUsuarios().GetUsuarios(identificador, password);
+        }
+
+        public void AddUsuario(Usuario usuario)
+        {
+            new Dalcs.DalUsuarios().AddUsuario(usuario);
         }
     }
 }

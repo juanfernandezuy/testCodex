@@ -38,8 +38,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
   </ItemGroup>
-  <ItemGroup>
+    <ItemGroup>
     <Compile Include="AdmLogin.cs" />
+    <Compile Include="AdmUsuarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
