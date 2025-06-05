@@ -10,7 +10,8 @@ namespace BussinesLogic
     {
         public Usuario Login(string identificador, string password)
         {
-            return new Mappers.MapUsuarios().GetUsuarios(identificador, password)[1];
+            var usuarios = new Mappers.MapUsuarios().GetUsuarios(identificador, password);
+            return usuarios.FirstOrDefault();
         }
     }
 }

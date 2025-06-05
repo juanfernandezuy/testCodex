@@ -20,5 +20,21 @@ namespace WindowsFormsApp1
         {
             new BussinesLogic.AdmLogin();
         }
+
+        private void buttonCrearUsuario_Click(object sender, EventArgs e)
+        {
+            var usuario = new BussinesEntities.Usuario
+            {
+                Nombre = "nuevo",
+                Apellido = "usuario",
+                Edad = 20,
+                Email = "nuevo@fake.uy",
+                Identificar = "nuevo",
+                Password = "1234"
+            };
+
+            new BussinesLogic.AdmUsuarios().CrearUsuario(usuario);
+            MessageBox.Show("Usuario creado");
+        }
     }
 }
