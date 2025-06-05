@@ -1,0 +1,16 @@
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\bin\Debug\BussinesLogic.dll
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\bin\Debug\BussinesEntities.dll
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\bin\Debug\Mappers.dll
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\bin\Debug\BussinesLogic.pdb
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\bin\Debug\BussinesEntities.pdb
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\bin\Debug\Mappers.pdb
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\juancafernandez\Desktop\testCodex\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

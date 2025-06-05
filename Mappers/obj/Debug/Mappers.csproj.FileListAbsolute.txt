@@ -1,0 +1,9 @@
+C:\Users\juancafernandez\Desktop\Mappers\obj\Debug\Mappers.csproj.AssemblyReference.cache
+C:\Users\juancafernandez\Desktop\Mappers\obj\Debug\Mappers.csproj.CoreCompileInputs.cache
+C:\Users\juancafernandez\Desktop\Mappers\bin\Debug\Mappers.dll
+C:\Users\juancafernandez\Desktop\Mappers\bin\Debug\Mappers.pdb
+C:\Users\juancafernandez\Desktop\Mappers\bin\Debug\BussinesEntities.dll
+C:\Users\juancafernandez\Desktop\Mappers\bin\Debug\BussinesEntities.pdb
+C:\Users\juancafernandez\Desktop\Mappers\obj\Debug\Mappers.csproj.CopyComplete
+C:\Users\juancafernandez\Desktop\Mappers\obj\Debug\Mappers.dll
+C:\Users\juancafernandez\Desktop\Mappers\obj\Debug\Mappers.pdb

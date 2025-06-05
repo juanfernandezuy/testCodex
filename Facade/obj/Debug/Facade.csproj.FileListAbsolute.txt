@@ -1,0 +1,13 @@
+C:\Users\juancafernandez\Desktop\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\juancafernandez\Desktop\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\juancafernandez\Desktop\Facade\bin\Debug\Facade.dll
+C:\Users\juancafernandez\Desktop\Facade\bin\Debug\Facade.pdb
+C:\Users\juancafernandez\Desktop\Facade\bin\Debug\BussinesEntities.dll
+C:\Users\juancafernandez\Desktop\Facade\bin\Debug\BussinesLogic.dll
+C:\Users\juancafernandez\Desktop\Facade\bin\Debug\BussinesEntities.pdb
+C:\Users\juancafernandez\Desktop\Facade\bin\Debug\BussinesLogic.pdb
+C:\Users\juancafernandez\Desktop\Facade\obj\Debug\Facade.csproj.CopyComplete
+C:\Users\juancafernandez\Desktop\Facade\obj\Debug\Facade.dll
+C:\Users\juancafernandez\Desktop\Facade\obj\Debug\Facade.pdb
+C:\Users\juancafernandez\Desktop\Facade\bin\Debug\Mappers.dll
+C:\Users\juancafernandez\Desktop\Facade\bin\Debug\Mappers.pdb
